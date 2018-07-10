@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-hyperone",
+  "name": "@hyperone/eslint-config",
   "version": "1.0.0",
-  "description": "eslint-config-hyperone",
+  "description": "eslint config for hyperone",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
