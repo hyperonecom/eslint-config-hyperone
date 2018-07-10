@@ -1,3 +1,3 @@
-#eslint-config-hyperone
+# eslint-config-hyperone
 
 eslint rules for hyperone
