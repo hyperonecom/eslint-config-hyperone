@@ -6,5 +6,13 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperonecom/eslint-config-hyperone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hyperonecom/eslint-config-hyperone/issues"
+  },
+  "homepage": "https://github.com/hyperonecom/eslint-config-hyperone#readme"
 }
