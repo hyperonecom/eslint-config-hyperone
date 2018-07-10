@@ -1,0 +1,10 @@
+{
+  "name": "eslint-config-hyperone",
+  "version": "1.0.0",
+  "description": "eslint-config-hyperone",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
