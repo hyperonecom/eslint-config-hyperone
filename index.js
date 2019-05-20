@@ -19,6 +19,7 @@ module.exports = {
         'no-unused-expressions': 'error',
         'no-dupe-keys': 'error',
         'no-undef': 'error',
+        'no-extra-semi': 'error',
         'no-duplicate-case': 'error',
         'prefer-template': 'warn',
         'no-var': 'warn',
