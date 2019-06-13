@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">= 4"
+    "eslint": ">= 5"
   },
   "repository": {
     "type": "git",
