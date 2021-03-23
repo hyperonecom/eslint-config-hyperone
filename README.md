@@ -5,10 +5,21 @@ eslint rules for hyperone
 ## how to use
 
 install dependencies
+```sh
+npm install eslint --save-dev
+npm install @hyperone/eslint-config --save-dev
+```
 
-    npm install eslint --save-dev
-    npm install @hyperone/eslint-config --save-dev
+add to your .eslintrc
+```
+extends: '@hyperone'
+```
 
-add on your .eslintrc
-
-    extends: '@hyperone'
+or use package.json
+```json
+"eslintConfig": {
+   "extends": [
+      "@hyperone"
+   ]
+}
+```
