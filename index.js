@@ -52,5 +52,6 @@ module.exports = {
         indent: ['error', 4 ],
         'prefer-object-spread': 'warn',
         curly: 'error',
+        'block-spacing': 'error'
     },
 };
