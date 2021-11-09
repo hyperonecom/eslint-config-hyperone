@@ -17,9 +17,13 @@ extends: '@hyperone'
 
 or use package.json
 ```json
-"eslintConfig": {
-   "extends": [
+  "eslintConfig": {
+    "extends": [
       "@hyperone"
-   ]
-}
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "fmt": "eslint . --fix"
+  },
 ```
