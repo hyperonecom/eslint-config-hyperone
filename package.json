@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "Frederico Silva <frederico.silva@gmail.com>",
   "peerDependencies": {
-    "eslint": ">= 5"
+    "eslint": ">= 7.8"
   },
   "repository": {
     "type": "git",
