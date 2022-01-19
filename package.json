@@ -1,6 +1,6 @@
 {
   "name": "@hyperone/eslint-config",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "eslint config for hyperone",
   "main": "index.js",
   "license": "MIT",
