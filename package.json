@@ -4,6 +4,7 @@
   "description": "eslint config for hyperone",
   "main": "index.js",
   "license": "MIT",
+  "author": "Frederico Silva <frederico.silva@gmail.com>",
   "peerDependencies": {
     "eslint": ">= 5"
   },
