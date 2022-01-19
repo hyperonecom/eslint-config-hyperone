@@ -52,6 +52,7 @@ module.exports = {
         indent: ['error', 4 ],
         'prefer-object-spread': 'warn',
         curly: 'error',
+        eqeqeq: 'error',
         'block-spacing': 'error'
     },
 };
