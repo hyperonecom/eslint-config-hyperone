@@ -10,6 +10,7 @@ module.exports = {
         es6: true,
     },
     rules: {
+        eqeqeq: "error",
         'quote-props': [ 'error', 'as-needed' ],
         semi: [ 'error', 'always' ],
         strict: [ 'error', 'global' ],
